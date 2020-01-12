@@ -1,3 +1,4 @@
 토렌트왈@com.example.mytv.site.Torrentwal@https://torrentwal2.com
 폭시토렌트@com.example.mytv.site.Foxytorrent@https://foxytorrent11.com
 토렌트맥스@com.example.mytv.site.Torrentmax@https://torrentmax.net
+토렌트워크@com.example.mytv.site.Torrentwork@https://torrentwork.com
